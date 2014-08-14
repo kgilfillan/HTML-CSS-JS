@@ -1,0 +1,71 @@
+body {
+  color: #444;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+#navigation {
+  font-size: 14px;
+  font-family: 'Lato' !important;
+  background: #000;
+  color: #888;
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  z-index: 2000;
+  text-align: center;
+  overflow: hidden;
+}
+#navigation div {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+#navigation img {
+  float: left;
+  padding: 0px;
+  margin: 0px;
+}
+#navigation a {
+  color: #FFF;
+  text-decoration: none;
+  font-weight: normal;
+}
+#navigation a.textlink {
+  text-transform:uppercase;
+  text-align: center;
+  display: inline-block;
+  padding: 18px 10px 10px 16px;
+  height: 20px;
+}
+#navigation a:hover, #navigation .selected {
+  color: #eb1c22;
+}
+
+#Stage1, #Stage2, #Stage3 {
+  left: 0px;
+  top: 0px;
+}
+
+#Stage2, #Stage3 {
+  left: 101%;
+}
+
+#trickery {
+  padding-top: 20px;
+}
+
+div object{
+    position:absolute;
+}
+
+a div.playbutton {
+    background: url('images/video_out.png') no-repeat center;
+    height: 259px;
+    width: 459px;
+}
+
+a:hover div.playbutton {
+    background: url('images/video_over.png') no-repeat center;
+}
