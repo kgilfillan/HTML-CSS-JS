@@ -1,0 +1,660 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="StateofTexas" name="wt.mc_id">
+<title>Texas: Government and Educational Solutions</title>
+
+<style>
+  
+  html, body {
+     background-image: url("http://images.your.level3.com/EloquaImages/clients/Level3Communications/{30f5a20e-f0cc-405f-863d-b5939a05e2e1}_bkg-tile.png");
+    margin: 0;
+    padding: 0;
+}
+    margin: 0;
+    padding: 0;
+}
+  
+ul {
+	list-style-type: none;
+	margin: 0 0 0 5px;
+	padding: 0 0 6px;
+	text-indent: 0;
+}
+p, li {
+    font-family: Arial,Helvetica,sans-serif;
+    margin: 0;
+    padding: 4px 0 8px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial,Helvetica,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+li {
+    font-size: 12px;
+    line-height: 120%;
+    list-style-position: outside;
+    list-style-type: disc;
+    margin: 0 0 0 12px;
+    padding: 8px 0 0 2px;
+    text-indent: 0;
+}
+hr {
+   border-color: #CCCCCC;
+    border-right: medium none;
+    border-style: solid none none;
+    border-width: 1px medium medium;
+    clear: left;
+    display: block;
+    height: 1px;
+    margin: 16px auto;
+    padding: 0;
+    width: 90%;
+}
+h1 {
+    color: #8CC53F;
+    font-size: 24px;
+}
+h2 {
+    color: #333333;
+    font-size: 16px;
+    font-weight: bold;
+}
+h3 {
+    color: #666666;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px 0 6px;
+}
+h4 {
+    font-size: 14px;
+}
+h5 {
+    font-size: 14px;
+    font-weight: bold;
+}
+h6 {
+    font-size: 12px;
+}
+h3, h4, h5, h6 {
+    color: #333333;
+}
+p {
+    color: #333333;
+    font-size: 12px;
+    line-height: 130%;
+}
+br {
+    display: block;
+    height: 1px;
+    margin: 0;
+    padding: 0;
+}
+a img {
+    border: medium none;
+}
+.cLeft {
+    clear: left;
+}
+a, a:link, a:visited {
+    color: #00853F;
+    text-decoration: none;
+}
+a:hover, a:active {
+    text-decoration: underline;
+}
+div#tx_wrap {
+	margin: 20px auto 0;
+	position: relative;
+	width: 825px;
+	background-color: #FFFFFF;
+  padding-top:.1cm;
+  
+}
+form#ctl_search {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+form#ctl_search p {
+    float: left;
+    font-size: 11px;
+    height: 30px;
+    line-height: 30px;
+    margin: 0 0 0 10px;
+    padding: 0;
+}
+form#ctl_search p a {
+    color: #00853F;
+    font-size: 11px;
+}
+form#ctl_search p a:link, form#ctl_search p a:visited {
+    color: #00853F;
+    text-decoration: none;
+}
+form#ctl_search p a:hover, form#ctl_search p a:active {
+    color: #333333;
+    text-decoration: none;
+}
+form#ctl_search input {
+    display: inline;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+}
+form#ctl_search input#s {
+    border: medium none;
+    width: 160px;
+}
+form#ctl_search p#s_wrap {
+    background-image: url("images/bg_search-mag.gif");
+    background-position: 4px 2px;
+    background-repeat: no-repeat;
+    border: 1px solid #CCCCCC;
+    height: 18px;
+    line-height: 18px;
+    margin-top: 6px;
+    padding-left: 22px;
+}
+ul#ctl_nav {
+    background-image: url("http://images.your.level3.com/EloquaImages/clients/Level3Communications/{304322f8-41b1-4563-a87d-1924c8fd66a9}_bg_uppernav_rpt.gif");
+    background-repeat: repeat-x;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    margin: 10px 0;
+    padding: 0;
+    width: 816px;
+}
+ul#ctl_nav li {
+    background-image: url("http://images.your.level3.com/EloquaImages/clients/Level3Communications/{6d915bdb-4567-4c15-b95b-1982c3be24b7}_vr_uppernav.gif");
+    background-position: right center;
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    line-height: 25px;
+    list-style-type: none;
+    padding: 0;
+}
+ul#ctl_nav li a {
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 25px;
+    padding: 0 32px;
+    text-decoration: none;
+    vertical-align: top;
+}
+ul#ctl_nav li a:hover {
+    color: #8CC53F;
+    text-decoration: underline;
+}
+div#east_rail {
+    background-image: url("http://images.your.level3.com/EloquaImages/clients/Level3Communications/{967d7765-766e-4257-bdc6-37fd266b65c6}_bg_eastrail_rpt.gif");
+    background-repeat: repeat-y;
+    display: block;
+    float: left;
+    min-height: 400px;
+    position: relative;
+    width: 586px;
+}
+div img.eastrail_top {
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+div img.eastrail_btm {
+	bottom: -2px;
+	left: 0px;
+	position: absolute;
+}
+
+div img.eastrail_rt {
+    background-image: url("images/bg_rightrail_rpt.gif");
+    background-repeat: repeat-y;
+	position: absolute;
+}
+div#west_rail {
+	background-image: url("http://images.your.level3.com/EloquaImages/clients/Level3Communications/{a2ff1a3c-8cf0-4b7d-8b17-a1f761e823f5}_bg_leftrail_rpt.gif");
+	background-repeat: repeat-y;
+	display: block;
+	float: left;
+	min-height: 400px;
+	position: relative;
+	width: 216px;
+	z-index: 4;
+}
+       
+div#west_rail h2 {
+    color: #FFFFFF;
+    padding: 8px 0 0 12px;
+    position: relative;
+    z-index: 3;
+}
+div#west_rail p {
+	display: block;
+	float: left;
+	font-size: 11px;
+	margin-left: 3px;
+	margin-top: 3px;
+	width: 100px;
+}
+div#west_rail p.cLeft {
+    margin-left: 5px;
+	margin-top: 10px;
+}
+div img.leftrail_top {
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+div img.leftrail_btm {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+}
+div.pad12 {
+    padding: 10px 10px 10px 10px;
+}
+div#tx_banner {
+    background-image: url("images/bg_leader.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 175px;
+    position: relative;
+    width: 817px;
+}
+div#tx_banner h1 {
+    font-weight: normal;
+    padding: 20px;
+    width: 350px;
+}
+div#tx_content {
+    margin-top: 15px;
+  padding-left: 2px;
+}
+div#east_rail {
+    margin-left: 15px;
+}
+div#tx_foot {
+    margin-top: 30px;
+    text-align: center;
+}
+div#tx_foot p, div#tx_foot a {
+    color: #333333;
+    font-size: 11px;
+    text-decoration: none;
+}
+div#tx_foot a:hover {
+    text-decoration: underline;
+}
+
+.more {
+	display: none;
+	border-top: 0px solid #666;
+	border-bottom: 1px solid #666; }
+a.showLink, a.hideLink {
+	text-decoration: none;
+	color: #36f;
+	padding-left: 15px;
+	background: transparent url('http://images.your.level3.com/EloquaImages/clients/Level3Communications/{1d55f144-fcf5-46b2-853b-bdad9846a4e6}_down.gif') no-repeat left; }
+a.hideLink {
+	background: transparent url('http://images.your.level3.com/EloquaImages/clients/Level3Communications/{4ac787ab-706b-43a5-95d2-8a0d20c07ea9}_up.gif') no-repeat left; }
+a.showLink:hover, a.hideLink:hover {
+	border-bottom: 1px dotted #36f; }
+	
+	#footer {
+  margin:0 auto;
+  overflow:hidden;
+  text-align:center;
+  width:1000px;
+  }
+  
+  #footer-content {
+	 margin:0 0 0 20px;
+	  overflow:hidden;
+	  width:816px;
+  }
+
+  
+</style>
+
+   
+   
+   
+<script>function showHide(shID) {
+	if (document.getElementById(shID)) {
+		if (document.getElementById(shID+'-show').style.display != 'none') {
+			document.getElementById(shID+'-show').style.display = 'none';
+			document.getElementById(shID).style.display = 'block';
+		}
+		else {
+			document.getElementById(shID+'-show').style.display = 'inline';
+			document.getElementById(shID).style.display = 'none';
+		}
+	}
+}</script>
+
+<script type="text/javascript" src="js/jquery-161.js"></script>
+<script type="text/javascript">
+
+</script>
+
+</head>
+<body>
+
+<div id="tx_wrap">
+ 
+	<div>
+		<div align="center" class=""><img style="width:816px;height:190px;" src="http://images.your.level3.com/EloquaImages/clients/Level3Communications/{6393657a-9bca-4bcf-bef8-a5d73e64aaf4}_2014-Texas-LP-Headerv2.jpg">
+	  </div>
+	</div>
+  <div id="tx_content">
+
+<div id="west_rail">
+			<img width="215" height="35" class="leftrail_top" alt="Solutions" src="http://images.your.level3.com/EloquaImages/clients/Level3Communications/%7B943dc3b7-4b51-4be8-ab9e-0e0d870e412f%7D_bg_leftrail_top.gif">
+			<h2>Contact Us</h2>
+			<div style="position:relative;z-index:6;" class="pad12">
+
+<a href="http://www2.dir.state.tx.us/ict/contracts/Pages/Details.aspx?dir_contract_number=DIR-TEX-AN-NG-CTSA-007&Return=http%3A//www2.dir.state.tx.us/ict/contracts/Pages/ResultsByProduct.aspx%3Fk%3DLevel+3+Communications&" onclick="window.open(this.href);return false;">
+<img width="160" height="63" align="middle" alt="" src="http://images.your.level3.com/EloquaImages/clients/Level3Communications/%7B22b7e3fe-02b5-4a9a-b1e1-ef25e4d79c7f%7D_logo_dir.gif">
+</a>
+</div>
+<div style="position:relative;z-index:6;">
+				<table><tbody><tr><td valign="top" align="left"><p> <a href="mailto:gretchen.tinnerman@level3.com"><strong>Gretchen Tinnerman</strong></a><br><br>
+					<strong>Account Director</strong><br>
+                    o: 614.796.1095<br>
+				    c: 614.684.8128</p></td>
+               <td valign="top" align="left"><p><a href="mailto:Per.Engstrom@level3.com"><strong>Per Engstrom</strong></a><br>
+					<strong>Principal Solutions Architect</strong><br>
+                  o: 512.201.6813</p></td></tr>
+				<tr><td valign="top" align="left"><p> <a href="mailto:Craig.Cupach@level3.com"><strong>Craig Cupach</strong></a><br>
+					<strong>Sales Director</strong><br>
+                    o: 216.402.5815<br>
+					c: 216.496.2141</p></td>
+			  <td valign="top" align="left"><p><a href="mailto:jill.harkinbixby@level3.com"><strong>Jill Harkin Bixby</strong></a><br>
+					<strong>Billing Coordinator</strong><br>
+                  o: 724.743.9487</p></td> </tr>
+				<tr><td valign="top" align="left"><p> <a href="mailto:LeeAnn.Lathrop@Level3.com"><strong>Lee Ann Lathrop</strong></a><br>
+					<strong>Customer Care Manager</strong><br>
+                    o:720.888.7005</p></td>
+			<td valign="top" align="left"><p><a href="mailto:Jodi.Ciepley@level3.com"><strong>Erik Hunsinger</strong></a><br>
+					<strong>Sales Director</strong><br>
+                    o: 720.888.1758<br>
+                    c: 720.318.8354 </p></td> </tr>
+				<tr>
+			 </tr>
+				</tbody></table>
+			
+				<br class="cLeft">
+		  </div>
+			<img width="215" height="358" style="z-index:4;" class="leftrail_btm" alt="" src="http://images.your.level3.com/EloquaImages/clients/Level3Communications/%7B4e34ee09-6d54-415b-93cc-c4707b436036%7D_bg_leftrail_btm.gif">
+		</div>
+    <div id="east_rail">
+			<img width="586" height="8" class="eastrail_top" alt="" src="http://images.your.level3.com/EloquaImages/clients/Level3Communications/%7B2325b07a-c124-4722-b9fd-53a5588e3d67%7D_bg_eastrail_top.gif">
+	  <div class="pad12">
+				
+				<p>Level 3 Tex-An-NG Contract number is: DIR-TEX-AN-NG-CTSA-007</p>
+                            
+				<p>DIR TEX-AN NG Contract Program: <a target="_blank" href="http://www2.dir.state.tx.us/cts/Pages/cts.aspx">www2.dir.state.tx.us/cts/Pages/cts.aspx</a></p>
+
+						<hr>
+
+			  <h3>How to obtain quotes and place Purchase Orders</h3>
+
+						<p>Please use the following links to contact  Level 3 for:</p>
+                        <p>Product and Pricing Information 
+                          - <a href="mailto:DL-TXDIR-quoterequest@level3.com?subject=TX DIR Product and Pricing Request&">DL-TXDIR-quoterequest@level3.com</a> <br>
+                          New Order Placement - <a href="mailto:DL-TXDIR-neworders@level3.com?subject=New Order for TX DIR Services&">DL-TXDIR-neworders@level3.com</a> <br>
+                          Order Status Inquiry - <a href="mailto:DL-TXDIR-orderstatusinquiry@level3.com?subject=TX DIR Order Status Inquiry&">DL-TXDIR-orderstatusinquiry@level3.com</a></p>
+                        <p>If you have questions, please call Rob  Nussbaum at 512.742.3962.</p>
+                                                <p>To place an order, please contact DIR  Telecommunications at  (877) 472-4848, option 4 or send an email to the DIR Orders Mailbox at:  <a href="mailto:telecom.solutions@dir.texas.gov?subject=Order Request&">telecom.solutions@dir.texas.gov</a>. DIR will then place the order with Level 3. DIR  invoices you directly and pays Level 3 for services purchased.</p>
+
+                        
+                        <hr>
+						<h2>Services Offered</h2>
+
+        <h3>Level 3<sup>®</sup> Dedicated Internet Access (DIA)</h3>
+
+						<p>Level <sup>®</sup>s DIA service  combines vital business Internet features with maximum global reach and  scalability.<a onclick="showHide('one');return false;" class="showLink" id="one-show" href="http://#?">Learn More</a></p>
+          <div class="more" id="one"><p><strong>Internet Access Service Benefits</strong></p>
+                        <ul>
+                          <li>Redundant, self-healing IP architecture keeps your  critical business applications up and running</li>
+                          <li>Access end-to-end reliability on our privately-owned and  managed fiber infrastructure, which enables proactive capacity monitoring and  problem resolution. </li>
+                          <li>With access of up to 10 GigE at our edge servers, you can  get lower costs, simpler management and scalability that allow your service to  grow with your needs </li>
+                          <li>Get one of the fastest routes to the most important  Internet destinations </li>
+                        </ul>
+                        <p><strong>Internet Access Service Features</strong></p>
+                        <ul>
+                          <li>Proven performance </li>
+                          <li>IP port speeds that range from DS-1 to 10 GigE </li>
+                          <li>High-speed Internet provider with high-quality,  high-capacity Tier 1 IP service across North America and Europe </li>
+                        </ul>
+       <p><a onclick="showHide('one');return false;" class="hideLink" id="one-hide" href="http://#?">Hide this content.</a></p></div>
+						
+		   <h3>Level 3<sup style="line-height:normal;">®</sup> MPLS/IP VPN</h3>
+
+						<p>Our innovative, converged MPLS backbone combines your voice, video and data traffic onto a single line - giving you the ability to prioritize traffic, so critical applications like voice and video are not compromised by other less time-sensitive applications like email.</p>
+                        
+<p>The MPLS/IP VPN service delivers a secure, private IP VPN over a dedicated MPLS network. You can access this high-performance service over either traditional TDM or Ethernet connections. Our MPLS/IP VPN service is the cost-effective alternative to private lines for providing a high level of privacy, security, reliability and performance.  
+<a onclick="showHide('two');return false;" class="showLink" id="two-show" href="http://#?">Learn More</a></p>
+          <div class="more" id="two"><p><strong>MPLS/IP VPN Service Benefits</strong></p>
+                        <ul>
+                          <li>Easily prioritize network traffic and manage bandwidth  based on your agency's usage and needs</li>
+                          <li>Connect multiple locations by choosing from a range of  products and services to create a custom, high-performance network that can  streamline your communications</li>
+                          <li>Use existing hardware, applications and technologies - integration is seamless and worry-free</li>
+                          <li>The Level 3 MPLS/IP VPN is ideally suited for delivering  cloud applications</li>
+
+                        </ul>
+                        <p><strong>MPLS/IP VPN Service Features</strong></p>
+                        <ul>
+                          <li>International connectivity and reach over our AS1 backbone</li>
+                          <li>Based on the Internet Engineering Task Force IETF RFC4364 standard for utmost security</li>
+                          <li>Interfaces ranging from T-1 to Gigabit Ethernet (including MLPPP)</li>
+                          <li>Six classes of service (CoS) for optimal traffic  prioritization</li>
+                        </ul>
+                             
+<p><a onclick="showHide('two');return false;" class="hideLink" id="two-hide" href="http://#?">Hide this content.</a></p></div>
+
+			 <h3>Level 3<sup style="line-height:normal;">®</sup> Private Line (PL)</h3>
+
+						<p>Level 3's Private Line service accommodates voice, data, and video traffic worldwide with the trusted protection that SONET architecture provides. Our dedicated Private Line service offers unmatched privacy and security for your most sensitive traffic, and our diverse network paths ensure immediate restoration in the event of an outage. 
+<a onclick="showHide('three');return false;" class="showLink" id="three-show" href="http://#?">Learn More</a></p>
+          <div class="more" id="three"><p><strong>Private Line Service Benefits:</strong></p>
+                         <ul>
+                          <li>Enjoy the privacy and security of a SONET based service</li>
+                             <li>Confidently deliver your traffic with a service backed by diverse paths for transport and prompt restoration in the event of an outage</li>
+                             <li>Connect to just about anywhere with our 27,000 metro route miles and 54,000 intercity miles in North America and Europe</li>
+                        </ul>
+                             
+<p><a onclick="showHide('three');return false;" class="hideLink" id="three-hide" href="http://#?">Hide this content.</a></p></div>			
+				
+                
+             <h3>Level 3<sup style="line-height:normal;">®</sup> Ethernet Private Line (EPL)</h3>
+
+						<p>Level 3's Ethernet Private Line service gives your agency the maturity of a SONET service and  the privacy, security, diversity and dedicated bandwidth of private line along with the simplicity and affordability of an Ethernet interface. You'll link your locations securely and efficiently to support transmission of advanced applications, data, voice and video at up to Gigabit speeds.</p>
+
+<p>Our Ethernet Private Line service is a cost-effective connectivity solution that lets you take advantage of the power, flexibility and speed of a true private-line network - whether city-to-city or within the metro. <a onclick="showHide('four');return false;" class="showLink" id="four-show" href="http://#">Learn More</a></p>
+          <div class="more" id="four"><p><strong>Ethernet Private Line Service Benefits:</strong></p>
+                         <ul>
+                           <li>Purchase the amount of bandwidth that meets your needs  now and easily add more as your network grows </li>
+                           <li>Meet intercity and IP requirements using a single  provider across several different lit transport options with our Metro Ethernet  Private Line service </li>
+                           <li>Simplify your network by treating all connected LANs,  MANs and WANs as a single network </li>
+
+<li>Reduce capital costs by replacing legacy WAN  interfaces and circuits with highly efficient Ethernet ports and services</li>
+                        </ul>
+                        <p><strong>Ethernet Private Line Service Features:</strong></p>
+                        <ul>
+                          <li>Bandwidth Options: 3 Mbps up to 1 Gigabit for Metro  Ethernet dedicated service </li>
+                          <li>Diversity: Provisioned as physically diverse,  SONET-protected network service </li>
+                          <li>Connectivity Options: Dedicated point-to-point  connectivity </li>
+                          <li>Monitoring and Management: 24 x 7 proactive monitoring  and management </li>
+  </ul>
+                             
+<p><a onclick="showHide('four');return false;" class="hideLink" id="four-hide" href="http://#?">Hide this content.</a></p></div>
+
+     <h3>Level 3<sup style="line-height:normal;">®</sup> Wavelength</h3>
+
+						<p>Level 3's  Wavelength service gives your agency's data the reliable, high-speed network it  needs from a trusted network service provider. Choose among varying speeds,  interfaces, routes and protection options to support the applications you use.  No matter the choice, you'll get the raw bandwidth, transparency and control your  application demands. <a onclick="showHide('five');return false;" class="showLink" id="five-show" href="http://#?">Learn More</a></p>
+          <div class="more" id="five"><p><strong>Wavelength Service Benefits:</strong></p>
+                         <ul>
+                           <li>Direct control over performance and quality with  privately-owned, facilities-based network, with ongoing investments in our  network to support your growth </li>
+                           <li>Native Storage Area Networking (SAN) protocols enhance  data center network performance by retaining low-latency SAN options with an  aggregated traffic solution </li>
+                           <li>Simplify your vendor management with a single provider  for metro and intercity needs across North American, transatlantic and European  networks, supported by a dedicated team of network architects </li></ul>
+                        <p><strong>Wavelength Service Features:</strong></p>
+                        <ul>
+                          <li>Available speeds of 1 GigE, 2.5 Gbps, 10 Gbps, 10 GigE,  and 40 Gbps </li>
+                          <li>Native Fiber Channel and FICON protocols supported </li>
+                          <li>Protected and unprotected point-to-point configurations </li>
+                          <li>Fully mirrored, 24 x 7 Network Operations Centers (NOCs) </li>
+                          <li>Custom Options: </li>
+                          <li>Maximum latency guarantee </li>
+                          <li>Low-latency routes </li>
+                          <li>Customer-defined routing </li>
+            </ul>
+                       
+                             
+<p><a onclick="showHide('five');return false;" class="hideLink" id="five-hide" href="http://#?">Hide this content.</a></p></div>
+                
+                
+                
+                  <hr>
+						<h2>Contract and Documents</h2>
+
+	<p><strong>Level 3 Tex-An-NG Contract number is: <a target="_blank" href="http://www1.level3.com/assets/dir_tex_an_ng_ctsa_007.pdf">DIR-TEX-AN-NG-CTSA-007</a></strong></p>
+    
+    <p><a target="_blank" href="http://www2.dir.state.tx.us/ict/contracts/Pages/Details.aspx?dir_contract_number=DIR-TEX-AN-NG-CTSA-007&Return=http%3A//www2.dir.state.tx.us/ict/contracts/Pages/ResultsByProduct.aspx%3Fk%3DLevel+3+Communications&">Level 3's Contracts</a></p>
+    
+     <p><a target="_blank" href="http://www1.level3.com/assets/l3_pricing_exhibit_c_amendment_1.pdf">L3 pricing Exhibit C - Amendment 1</a></p>
+     
+     
+      <p><a target="_blank" href="http://www1.level3.com/assets/attachment_d_1_to_exhibit_d_sla.pdf">Attachment D-1 to Exhibit D - Service Level Agreement</a></p>
+	  </div>
+			<img width="586" height="8" class="eastrail_btm" alt="" src="http://images.your.level3.com/EloquaImages/clients/Level3Communications/%7B07d7e644-f244-46e8-bdc4-f72d5c62c4dd%7D_bg_eastrail_btm.gif">
+		</div>
+		<div class="cLeft"></div>
+
+	</div>
+	
+<p>  </p>
+<p align="center"> Technical Support:   1-877-4Level3 | International Network Operations Center: 1-888-NOC-INTL <br>
+© 2014 Level 3 Communications
+</p>
+</div>
+<script type="text/javascript" src="http://images.your.level3.com/Web/Level3Communications/{e5e3c4fb-acb2-4ddb-9505-ff0cc2106cb0}_JS_StateofTexas.txt"></script>
+<script type="text/javascript">
+	s.pageName="Large Business | Texas: Government and Educational Solutions | TEX-AN Next Generation";
+</script>
+<script type="text/javascript">
+
+</script>
+<script type="text/javascript">
+
+</script>
+
+<script src="http://images.your.level3.com/Web/Level3Communications/{9efd419a-eee4-4629-8fec-7bcdec2a1fdd}_webtrends.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+&lt;div&gt;&lt;img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcskw3qs600000woo8lv8x7w4_4b4m/njs.gif?dcsuri=/nojavascript&amp;amp;WT.js=No&amp;amp;WT.tv=9.3.0&amp;amp;WT.dcssip=www1.level3.com"&gt;&lt;/div&gt;
+</noscript>
+<!-- END OF SmartSource Data Collector TAG --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 7]>
+<script src='http://images.your.level3.com/i/IE7.js'></script><script type='text/javascript'>var elements = document.all;var len = elements.length;for(var i = 0; i<len; i+=1){IE7.Layout.fixRight(elements[i]);IE7.Layout.fixBottom(elements[i]);}</script>
+<![endif]-->
+</body></html>
+<script type="text/javascript">
+<!--
+if (navigator.appName == 'Netscape' || navigator.appName == 'Opera'){
+     document.write('<layer hidden=true><img src="http://s2310.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=2310&PURLSiteID=1&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=614&PURLRecordID=0&PURLGUID=5DA6955A4F884A2891523AFF1410AFE2&UseRelativePath=True&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 ><\/layer>');
+}else{
+     document.write('<img style="display:none" src="http://s2310.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=2310&PURLSiteID=1&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=614&PURLRecordID=0&PURLGUID=5DA6955A4F884A2891523AFF1410AFE2&UseRelativePath=True&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 >');
+}
+
+-->
+</script>
